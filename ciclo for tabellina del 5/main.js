@@ -10,7 +10,7 @@
 /****************************************************************************/
 let moltiplicazione = ""
 
-for (i = 1; moltiplicazione < 50; i++) {
+for (let i = 1; moltiplicazione < 50; i++) {
     moltiplicazione = i * 5;
     console.log(moltiplicazione)
 }
