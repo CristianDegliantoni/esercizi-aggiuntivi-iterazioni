@@ -1,0 +1,28 @@
+Esercizi sulla ciclomatica
+
+Stampa i numeri da 1 a 10 usando un ciclo while. (fatto)
+
+Stampa i numeri da 1 a 10 usando un ciclo for. (fatto)
+Chiedi un numero N all'utente. Stampa i numeri da 0 a N usando un ciclo while. (fatto)
+
+Chiedi un numero N all'utente. Stampa i numeri da 0 a N usando un ciclo for. (fatto)
+
+Stampa la tabellina del 5. (fatto)
+
+Chiedi all'utente una parola e un numero N. Stampa quella parola N volte.
+
+Chiedi un numero N all'utente. Calcola la somma di tutti i numeri da 1 a N e stampa il risultato.
+
+Il computer sceglie un numero segreto (es. 7). Chiedi all'utente di indovinarlo. Continua finché l'utente non indovina il numero corretto.
+
+Chiedi all'utente di inserire il prezzo di un prodotto. Continua a chiedere prezzi e sommarli al totale finché l'utente non inserisce "0" per terminare. Stampa il totale della spesa.
+
+Chiedi all'utente di inserire i suoi voti. Stampa la media.
+
+L'utente ha 3 tentativi per indovinare la password. Stampa "Benvenuto" se riesce nei tentativi consentiti, altrimenti "Bloccato"
+
+Il computer pensa a un numero tra 1 e 100. L'utente indovina. Dopo ogni tentativo sbagliato, il computer dice "Troppo alto" o "Troppo basso" per aiutare l'utente.
+
+Scrivi in un div della pagina 100
+
+. Ognuno conterrà uno dei numeri da 1 a 100. I numeri multipli di 3 però andranno sostituiti dalla stringa "Fizz". I multipli di 5 dalla stringa "Buzz". I multipli sia di 3 che di 5 riportano "FizzBuzz".
