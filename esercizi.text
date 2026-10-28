@@ -19,10 +19,8 @@ Chiedi all'utente di inserire il prezzo di un prodotto. Continua a chiedere prez
 
 Chiedi all'utente di inserire i suoi voti. Stampa la media. (fatto)
 
-L'utente ha 3 tentativi per indovinare la password. Stampa "Benvenuto" se riesce nei tentativi consentiti, altrimenti "Bloccato"
+L'utente ha 3 tentativi per indovinare la password. Stampa "Benvenuto" se riesce nei tentativi consentiti, altrimenti "Bloccato" (fatto)
 
 Il computer pensa a un numero tra 1 e 100. L'utente indovina. Dopo ogni tentativo sbagliato, il computer dice "Troppo alto" o "Troppo basso" per aiutare l'utente.
 
-Scrivi in un div della pagina 100
-
-. Ognuno conterrà uno dei numeri da 1 a 100. I numeri multipli di 3 però andranno sostituiti dalla stringa "Fizz". I multipli di 5 dalla stringa "Buzz". I multipli sia di 3 che di 5 riportano "FizzBuzz".
+Scrivi in un div della pagina 100. Ognuno conterrà uno dei numeri da 1 a 100. I numeri multipli di 3 però andranno sostituiti dalla stringa "Fizz". I multipli di 5 dalla stringa "Buzz". I multipli sia di 3 che di 5 riportano "FizzBuzz".
