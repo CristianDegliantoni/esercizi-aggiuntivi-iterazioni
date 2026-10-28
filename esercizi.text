@@ -17,7 +17,7 @@ Il computer sceglie un numero segreto (es. 7). Chiedi all'utente di indovinarlo.
 
 Chiedi all'utente di inserire il prezzo di un prodotto. Continua a chiedere prezzi e sommarli al totale finché l'utente non inserisce "0" per terminare. Stampa il totale della spesa. (fatto)
 
-Chiedi all'utente di inserire i suoi voti. Stampa la media.
+Chiedi all'utente di inserire i suoi voti. Stampa la media. (fatto)
 
 L'utente ha 3 tentativi per indovinare la password. Stampa "Benvenuto" se riesce nei tentativi consentiti, altrimenti "Bloccato"
 
