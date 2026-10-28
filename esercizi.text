@@ -13,7 +13,7 @@ Chiedi all'utente una parola e un numero N. Stampa quella parola N volte. (fatto
 
 Chiedi un numero N all'utente. Calcola la somma di tutti i numeri da 1 a N e stampa il risultato. (fatto)
 
-Il computer sceglie un numero segreto (es. 7). Chiedi all'utente di indovinarlo. Continua finché l'utente non indovina il numero corretto.
+Il computer sceglie un numero segreto (es. 7). Chiedi all'utente di indovinarlo. Continua finché l'utente non indovina il numero corretto. (fatto)
 
 Chiedi all'utente di inserire il prezzo di un prodotto. Continua a chiedere prezzi e sommarli al totale finché l'utente non inserisce "0" per terminare. Stampa il totale della spesa.
 
